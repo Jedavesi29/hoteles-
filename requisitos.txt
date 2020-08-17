@@ -1,0 +1,7 @@
+1- Instalar xampp
+   - Eliminar todo de la carpeta "htdocs"
+   - Copiar carpeta "software" a "htdocs" en xampp
+2- Instalar sublime text 3
+   -Plugin de emmet
+3- crear base de datos "software" en "localhost/phpmyadmin"
+4- importar script sql a la base de datos
